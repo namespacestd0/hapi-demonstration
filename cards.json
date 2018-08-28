@@ -1,0 +1,66 @@
+{
+	"1": {
+		"id": "1",
+		"name": "Educational Data Analysis Research",
+		"link": "https://drive.google.com/file/d/16ye8hwp2RMspjrhune9f87OyzL2o-e5E/view",
+		"level": "*",
+		"descritpion": "TBA",
+		"card_image": "python.jpg"
+	},
+	"2": {
+		"id": "2",
+		"name": "UC San Diego Official Mobile App",
+		"link": "https://github.com/vvp002/campus-mobile",
+		"level": "*",
+		"descritpion": "TBA",
+		"card_image": "ReactNative.png"
+	},
+	"3": {
+		"id": "3",
+		"name": "Customer Relationship Management Web App",
+		"link": "TBA",
+		"level": "*",
+		"descritpion": "TBA",
+		"card_image": "react.png"
+	},
+	"4": {
+		"id": "4",
+		"name": "Computer Vision – Facial Recognition and Stereo Correspondences",
+		"link": "TBA",
+		"level": "*",
+		"descritpion": "TBA",
+		"card_image": "python.jpg"
+	},
+	"5": {
+		"id": "5",
+		"name": "Internet Security - HTTP Injection",
+		"link": "TBA",
+		"level": "*",
+		"descritpion": "TBA",
+		"card_image": "python.jpg"
+	},
+	"6": {
+		"id": "6",
+		"name": "AWS",
+		"link": "TBA",
+		"level": "*",
+		"descritpion": "TBA",
+		"card_image": "bootstrap.png"
+	},
+	"7": {
+		"id": "7",
+		"name": "AWS Customer Relationship Management Web App",
+		"link": "TBA",
+		"level": "*",
+		"descritpion": "TBA",
+		"card_image": "elasticsearch.png"
+	},
+	"8": {
+		"id": "8",
+		"name": "AWS Customer Relationship Management Web App",
+		"link": "TBA",
+		"level": "*",
+		"descritpion": "TBA",
+		"card_image": "git.jpg"
+	}
+}
